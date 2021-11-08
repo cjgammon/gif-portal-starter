@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gif-portal-starter/public/static/css/main.fab6468b.chunk.css",
-    "main.js": "/gif-portal-starter/public/static/js/main.808ace9f.chunk.js",
-    "main.js.map": "/gif-portal-starter/public/static/js/main.808ace9f.chunk.js.map",
-    "runtime-main.js": "/gif-portal-starter/public/static/js/runtime-main.12693041.js",
-    "runtime-main.js.map": "/gif-portal-starter/public/static/js/runtime-main.12693041.js.map",
-    "static/js/2.6a11a33c.chunk.js": "/gif-portal-starter/public/static/js/2.6a11a33c.chunk.js",
-    "static/js/2.6a11a33c.chunk.js.map": "/gif-portal-starter/public/static/js/2.6a11a33c.chunk.js.map",
-    "index.html": "/gif-portal-starter/public/index.html",
-    "static/css/main.fab6468b.chunk.css.map": "/gif-portal-starter/public/static/css/main.fab6468b.chunk.css.map",
-    "static/js/2.6a11a33c.chunk.js.LICENSE.txt": "/gif-portal-starter/public/static/js/2.6a11a33c.chunk.js.LICENSE.txt",
-    "static/media/twitter-logo.d89d9a86.svg": "/gif-portal-starter/public/static/media/twitter-logo.d89d9a86.svg"
+    "main.css": "/gif-portal-starter/build/static/css/main.fab6468b.chunk.css",
+    "main.js": "/gif-portal-starter/build/static/js/main.808ace9f.chunk.js",
+    "main.js.map": "/gif-portal-starter/build/static/js/main.808ace9f.chunk.js.map",
+    "runtime-main.js": "/gif-portal-starter/build/static/js/runtime-main.3f602271.js",
+    "runtime-main.js.map": "/gif-portal-starter/build/static/js/runtime-main.3f602271.js.map",
+    "static/js/2.39dc0c5b.chunk.js": "/gif-portal-starter/build/static/js/2.39dc0c5b.chunk.js",
+    "static/js/2.39dc0c5b.chunk.js.map": "/gif-portal-starter/build/static/js/2.39dc0c5b.chunk.js.map",
+    "index.html": "/gif-portal-starter/build/index.html",
+    "static/css/main.fab6468b.chunk.css.map": "/gif-portal-starter/build/static/css/main.fab6468b.chunk.css.map",
+    "static/js/2.39dc0c5b.chunk.js.LICENSE.txt": "/gif-portal-starter/build/static/js/2.39dc0c5b.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/gif-portal-starter/build/static/media/twitter-logo.d89d9a86.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12693041.js",
-    "static/js/2.6a11a33c.chunk.js",
+    "static/js/runtime-main.3f602271.js",
+    "static/js/2.39dc0c5b.chunk.js",
     "static/css/main.fab6468b.chunk.css",
     "static/js/main.808ace9f.chunk.js"
   ]
